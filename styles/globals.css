@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* * {
+  box-sizing: border-box;
+} */
+
+.list {
+  align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+  .list {
+    display: none;
+  }
+}
+
+.bg-dots {
+  background-image: url("/images/Group\ 9.png");
+  background-position: left;
+  background-size: 200px;
+  background-repeat: no-repeat;
+
+  background-position-y: bottom;
+  padding-bottom: 100px;
+}
+.big-dot {
+  background-image: url("/big-dots/dot.png");
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-position-y: 20px;
+  padding-bottom: 50px;
+  background-position: right;
+}
+.big-dot-left {
+  background-image: url("/big-dots/dot.png");
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-position-y: 20px;
+  padding-bottom: 50px;
+  background-position: left;
+}
+.bg {
+  background-image: url("/big-dots/bg.svg");
+  background-repeat: no-repeat;
+  background-size: 500px;
+  background-position: center;
+  padding: 20vh 0;
+}
