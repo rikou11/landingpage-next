@@ -2,7 +2,7 @@ import Image from "next/image";
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { FontAwesomeIcon  } from "@fortawesome/react-fontawesome";
 import { faCheck} from "@fortawesome/free-solid-svg-icons";
 
 const Benifits = () => {
@@ -32,16 +32,16 @@ const Benifits = () => {
               dolor ea.
             </p>
             <ul className="">
-              <li className="ml-6">
-                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              <li className="ml-6 text-slate-600">
+                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
-              <li className="ml-6">
-                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              <li className="ml-6 text-slate-600">
+                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
-              <li className="ml-6">
-                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              <li className="ml-6 text-slate-600">
+                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               </li>
             </ul>
           </div>
@@ -79,16 +79,16 @@ const Benifits = () => {
               dolor ea.
             </p>
             <ul className="">
-              <li className="ml-6">
-                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              <li className="ml-6 text-slate-600">
+                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
-              <li className="ml-6">
-                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              <li className="ml-6 text-slate-600">
+                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
-              <li className="ml-6">
-                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              <li className="ml-6 text-slate-600">
+                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               </li>
             </ul>
           </div>
@@ -108,16 +108,16 @@ const Benifits = () => {
               dolor ea.
             </p>
             <ul className="">
-              <li className="ml-6">
-                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              <li className="ml-6 text-slate-600">
+                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
-              <li className="ml-6">
-                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              <li className="ml-6 text-slate-600">
+                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
-              <li className="ml-6">
-                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              <li className="ml-6 text-slate-600">
+                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               </li>
             </ul>
           </div>
