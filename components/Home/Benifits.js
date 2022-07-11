@@ -2,6 +2,9 @@ import Image from "next/image";
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCheck} from "@fortawesome/free-solid-svg-icons";
+
 const Benifits = () => {
   useEffect(() => {
     AOS.init({
@@ -11,7 +14,7 @@ const Benifits = () => {
 
   return (
     <div className="px-2 py-10 mx-auto  sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-20 lg:px-4  ">
-      <h1 className="text-center text-5xl font-bold my-4">
+      <h1 className="text-center text-3xl lg:text-5xl font-bold my-4">
         The best you can get
       </h1>
 
@@ -30,15 +33,15 @@ const Benifits = () => {
             </p>
             <ul className="">
               <li className="ml-6">
-                • Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
               <li className="ml-6">
-                • Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
               <li className="ml-6">
-                • Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               </li>
             </ul>
           </div>
@@ -77,15 +80,15 @@ const Benifits = () => {
             </p>
             <ul className="">
               <li className="ml-6">
-                • Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
               <li className="ml-6">
-                • Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
               <li className="ml-6">
-                • Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               </li>
             </ul>
           </div>
@@ -106,15 +109,15 @@ const Benifits = () => {
             </p>
             <ul className="">
               <li className="ml-6">
-                • Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
               <li className="ml-6">
-                • Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
               <li className="ml-6">
-                • Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon icon={{faCheck}}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               </li>
             </ul>
           </div>
