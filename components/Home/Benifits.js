@@ -31,7 +31,7 @@ const Benifits = () => {
               sunt laboris tempor consequat elit ullamco. Ipsum dolor culpa
               dolor ea.
             </p>
-            <ul className="">
+            <ul className="mt-2">
               <li className="ml-6 text-slate-600">
                 <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
