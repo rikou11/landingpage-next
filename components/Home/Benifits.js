@@ -33,15 +33,15 @@ const Benifits = () => {
             </p>
             <ul className="mt-2">
               <li className="ml-6 text-slate-600">
-                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon className="text-red-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
               <li className="ml-6 text-slate-600">
-                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon className="text-red-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
               <li className="ml-6 text-slate-600">
-                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon className="text-red-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               </li>
             </ul>
           </div>
@@ -80,15 +80,15 @@ const Benifits = () => {
             </p>
             <ul className="">
               <li className="ml-6 text-slate-600">
-                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon className="text-red-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
               <li className="ml-6 text-slate-600">
-                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon className="text-red-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
               <li className="ml-6 text-slate-600">
-                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon className="text-red-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               </li>
             </ul>
           </div>
@@ -109,15 +109,15 @@ const Benifits = () => {
             </p>
             <ul className="">
               <li className="ml-6 text-slate-600">
-                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon className="text-red-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
               <li className="ml-6 text-slate-600">
-                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon className="text-red-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptate, quos!
               </li>
               <li className="ml-6 text-slate-600">
-                <FontAwesomeIcon className="text-green-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                <FontAwesomeIcon className="text-red-400 mr-3 text-2xl" icon={faCheck}/> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               </li>
             </ul>
           </div>
